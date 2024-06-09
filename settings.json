@@ -17,8 +17,14 @@
   "prettier.jsxSingleQuote": true,
   "keyboard.dispatch": "keyCode",
   "vim.useSystemClipboard": true,
-  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.colorTheme": "Kimbie Dark",
   "window.autoDetectHighContrast": false,
   "editor.minimap.enabled": false,
-  "redhat.telemetry.enabled": false
+  "redhat.telemetry.enabled": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDragAndDrop": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
